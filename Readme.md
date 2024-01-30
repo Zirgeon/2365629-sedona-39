@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Никита](https://up.htmlacademy.ru/htmlcss/39/user/2365629).
-* Наставник: [Карина Королева](https://htmlacademy.ru/profile/id1526731).
+* Наставник:  [Карина Королева](https://htmlacademy.ru/profile/id1526731).
 
 ---
 
