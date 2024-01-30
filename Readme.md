@@ -2,6 +2,7 @@
 
 * Студент: [Никита](https://up.htmlacademy.ru/htmlcss/39/user/2365629).
 * Наставник:  [Карина Королева](https://htmlacademy.ru/profile/id1526731).
+* Сайт: [проект] (https://zirgeon.github.io/2365629-sedona-39/)
 
 ---
 
